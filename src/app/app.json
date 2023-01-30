@@ -1,5 +1,5 @@
 {
-  "name": "Display iframe",
+  "name": "display-iframe",
   "description": "",
   "scopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
   "public": false,
