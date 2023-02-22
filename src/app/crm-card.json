@@ -9,7 +9,7 @@
       "targetFunction": "crm-card",
       "objectTypes": [
         {
-          "name": "contact",
+          "name": "contacts",
           "propertiesToSend": []
         }
       ]
