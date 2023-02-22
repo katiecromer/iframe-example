@@ -4,12 +4,12 @@
   "type": "crm-card",
   "data": {
     "title": "Display iframe",
-    "location": "crm.record.tab",
+    "location": "crm.record.sidebar",
     "fetch": {
       "targetFunction": "crm-card",
       "objectTypes": [
         {
-          "name": "companies",
+          "name": "p678626_policy",
           "propertiesToSend": []
         }
       ]
