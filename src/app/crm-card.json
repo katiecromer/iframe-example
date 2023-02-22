@@ -9,7 +9,7 @@
       "targetFunction": "crm-card",
       "objectTypes": [
         {
-          "name": "p678626_policy",
+          "name": "contact",
           "propertiesToSend": []
         }
       ]
